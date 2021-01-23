@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    box-sizing: border-box;
+    
+}
+#karate-title
+{
+    color: rgb(33, 76, 126);
+}
+
+body{
+    font-family: "Poppins", "sans serif";
+    font-size: calc(3px + 1.2vw);
+    background-color: antiquewhite;
+}
+div{
+    margin: 1% 3%;
+    border: solid 1px black;
+    padding: 2% 2%;
+    background-color: white;
+}
